@@ -1,4 +1,5 @@
 # Gene-flow-network
-Gene flow network dataset files provided:
+Additional data files for the paper - Reconstructing horizontal gene flow network to understand prokaryotic evolution
+
 1. network.txt - to be imported into Cytoscape
 2. annotation.txt - to be imported as node annotation in Cytoscape
